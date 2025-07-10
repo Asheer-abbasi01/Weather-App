@@ -3,7 +3,7 @@
 A **responsive weather dashboard** built with **HTML, CSS & JavaScript**.  
 Enter any city and instantly see current temperature, humidity and conditions.
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](imsges/screenshot.png)
 
 ---
 
